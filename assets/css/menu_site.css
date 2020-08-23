@@ -1,0 +1,19 @@
+body{
+    font-family: 'Kayak-Sans-Regular';
+    color: black;
+    background-color: blue;
+}
+
+.sticky-top{
+    position: sticky;
+    top:0;
+    background-color: black;
+    z-index: 1;
+}
+
+.link-decoration a{
+    color:black;
+}
+a:hover{
+    text-decoration: none;
+}

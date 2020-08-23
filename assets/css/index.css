@@ -1,0 +1,35 @@
+body{
+    background-color: #1D2769;
+    font-family: 'Kayak-Sans-Regular';
+}
+.title{
+    color:white;
+    font-family: 'Kayak-Sans-Bold';
+    text-align: center;
+    font-size: 33px;
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+.identification{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: 'Kayak-Sans-Bold';
+}
+.connexion{
+    background-color: #D5D5D5;
+}
+.login-mdp{
+    background-color: #EAE8E5;
+    padding: 20px 30px;
+}
+.border-dark{
+    border: 1px solid #A9A9A9;
+}
+.btn-block{
+    margin: 35px 0 22px 0;
+    font-size: 18px;
+    font-family: 'Kayak-Sans-Bold';
+    border-radius: 7px;
+    background-color: #E6332A;
+}
+

@@ -1,0 +1,34 @@
+.font-color{
+    color: black;
+}
+
+/*Start font-face*/
+@font-face{
+    font-family:'Kayak-Sans-Regular';
+    src: url('../font/Kayak-Sans-Regular.otf');
+}
+@font-face{
+    font-family:'Kayak-Sans-Light-Italic';
+    src: url('../font/Kayak-Sans-Light-Italic.otf');
+}
+@font-face{
+    font-family:'Kayak-Sans-Light';
+    src: url('../font/Kayak-Sans-Light.otf');
+}
+@font-face{
+    font-family:'Kayak-Sans-Bold';
+    src: url('../font/Kayak-Sans-Bold.otf');
+}
+@font-face{
+    font-family:'LibreBaskerville-Regular';
+    src: url('../font/LibreBaskerville-Regular.ttf');
+}
+@font-face{
+    font-family:'LibreBaskerville-Bold';
+    src: url('../font/LibreBaskerville-Bold.ttf');
+}
+@font-face{
+    font-family:'LibreBaskerville-Italic';
+    src: url('../font/LibreBaskerville-Italic.ttf');
+}
+/*End font-face*/
